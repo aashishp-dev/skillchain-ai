@@ -112,7 +112,6 @@ README.md
 ---
 
 ## 🌐 Live Demo
-
 https://skillchain-ai-bay.vercel.app
 
 ---
