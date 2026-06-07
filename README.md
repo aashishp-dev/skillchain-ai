@@ -1,36 +1,155 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SkillChain AI
 
-## Getting Started
+### AI-Powered Credential Verification & Talent Discovery Platform
 
-First, run the development server:
+👨‍💻 **Aashish Pandey**
+👨‍💻 **Meemansa Dwivedi**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+SkillChain AI is an AI-powered credential verification and talent discovery platform designed to help developers prove their skills and help recruiters identify qualified candidates with confidence.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The platform analyzes GitHub profiles, evaluates technical capabilities using AI, generates verifiable credentials, and provides recruiter-friendly verification workflows.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Problem Statement
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Traditional resumes and certificates are often difficult to verify and may not accurately represent a candidate's real-world technical skills.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Recruiters face challenges such as:
 
-## Deploy on Vercel
+* Resume fraud and exaggeration
+* Unverified certifications
+* Lack of objective skill assessment
+* Time-consuming candidate screening
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+There is a need for a reliable and automated system that can verify technical capabilities based on actual work rather than self-reported information.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 💡 Solution
+
+SkillChain AI leverages Artificial Intelligence to analyze developer profiles and generate trustworthy skill assessments.
+
+The platform:
+
+* Analyzes GitHub repositories and contributions
+* Evaluates technical competencies
+* Generates AI-powered skill reports
+* Creates verifiable credentials
+* Simplifies recruiter verification workflows
+
+---
+
+## ✨ Key Features
+
+### 🤖 AI Skill Assessment
+
+Evaluates:
+
+* Programming proficiency
+* Project quality
+* Technical expertise
+* Development activity
+
+### 📜 Credential Verification
+
+Generates verifiable credentials based on demonstrated skills and project work.
+
+### 🔍 Talent Discovery
+
+Helps recruiters identify qualified candidates using AI-powered evaluation.
+
+### 📊 Developer Insights
+
+Provides detailed skill analysis and technical competency reports.
+
+### ⚡ Automated Screening
+
+Reduces manual candidate screening efforts.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+
+### AI
+
+* Gemini AI
+* GitHub Analysis
+
+### Deployment
+
+* Vercel
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+## 🏗 Workflow
+
+1. User submits GitHub profile.
+2. AI analyzes repositories and contributions.
+3. Technical skills are evaluated.
+4. Verification reports are generated.
+5. Recruiters can review verified credentials.
+6. Candidates receive skill insights and recommendations.
+
+---
+
+## 🎯 Use Cases
+
+* Developer Credential Verification
+* AI-Based Talent Assessment
+* Recruiter Candidate Screening
+* Technical Skill Validation
+* Hiring Process Optimization
+
+---
+
+## 📈 Impact
+
+SkillChain AI helps bridge the trust gap between candidates and recruiters by providing objective, AI-driven skill verification.
+
+Benefits include:
+
+* Improved hiring accuracy
+* Faster candidate evaluation
+* Reduced resume fraud
+* Better talent discovery
+* Increased recruiter confidence
+
+---
+
+## 🔐 Future Scope
+
+* Blockchain-based credential storage
+* Multi-platform portfolio analysis
+* Enterprise recruiter dashboard
+* Real-time skill benchmarking
+* AI interview readiness assessment
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
