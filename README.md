@@ -1,167 +1,36 @@
-# SkillChain AI
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## 🚀 Overview
+## Getting Started
 
-SkillChain AI is an AI-powered credential verification and talent discovery platform designed to help developers prove their skills and help recruiters identify qualified candidates with confidence.
+First, run the development server:
 
-The platform analyzes a developer's GitHub profile, evaluates technical capabilities using AI, generates verifiable credentials, and provides a recruiter-focused verification workflow.
-
----
-
-## 🎯 Problem Statement
-
-Traditional resumes and certificates are difficult to verify and often fail to reflect a developer's actual capabilities.
-
-Recruiters spend significant time validating skills, while talented developers struggle to showcase practical expertise beyond static resumes.
-
----
-
-## 💡 Solution
-
-SkillChain AI introduces an AI-driven skill verification system that:
-
-* Analyzes GitHub repositories and developer activity
-* Generates AI-based skill assessments
-* Creates verifiable digital credentials
-* Enables recruiter-side credential verification
-* Improves hiring transparency and trust
-
----
-
-## ✨ Features
-
-### AI Skill Assessment
-
-* GitHub profile analysis
-* Repository evaluation
-* Technical skill identification
-* Developer capability insights
-
-### Digital Credential Generation
-
-* Create verifiable credentials
-* Shareable skill proof
-* Trusted assessment records
-
-### Credential Verification
-
-* Validate issued credentials
-* Confirm authenticity
-* Reduce hiring fraud
-
-### Recruiter Portal
-
-* Review candidate profiles
-* Verify credentials instantly
-* Evaluate technical capabilities efficiently
-
-### Modern User Experience
-
-* Responsive design
-* Clean dashboard interface
-* Fast performance
-
----
-
-## 🏗️ System Workflow
-
-1. User enters GitHub profile
-2. AI analyzes repositories and contributions
-3. Skill profile is generated
-4. Credential is created
-5. Credential can be verified
-6. Recruiters review verified credentials
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-
-### AI
-
-* Google Gemini AI
-
-### Deployment
-
-* Vercel
-
-### Version Control
-
-* Git
-* GitHub
-
----
-
-## 📂 Project Structure
-
-```text
-app/
-public/
-components/
-package.json
-next.config.ts
-README.md
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
----
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🌐 Live Demo
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-https://skillchain-ai-bay.vercel.app
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
-## 🎯 Target Users
+To learn more about Next.js, take a look at the following resources:
 
-* Developers
-* Recruiters
-* Hiring Managers
-* Startups
-* Technology Companies
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 🔒 Security
+## Deploy on Vercel
 
-* Environment variables protected through Vercel
-* Sensitive keys excluded from Git history
-* Secure deployment workflow
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
----
-
-## 🔮 Future Scope
-
-* Blockchain-backed credentials
-* Decentralized identity integration
-* Wallet-based credential ownership
-* Advanced recruiter analytics
-* Enterprise hiring integrations
-* Multi-platform developer assessment
-
----
-
-## 📈 Impact
-
-SkillChain AI bridges the gap between demonstrated technical skills and hiring decisions by providing trusted, AI-generated proof of capability.
-
-The platform helps recruiters hire faster and enables developers to showcase verified expertise.
-
----
-
-## 👨‍💻 Author
-
-Aashish Pandey
-Meemansa Dwivedi
-
----
-
-## 📜 License
-
-MIT License
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
