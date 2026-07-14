@@ -2,9 +2,6 @@
 
 ### AI-Powered Credential Verification & Talent Discovery Platform
 
-👨‍💻 **Aashish Pandey**
-👨‍💻 **Meemansa Dwivedi**
-
 ---
 
 ## 🚀 Overview
